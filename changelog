@@ -1,8 +1,13 @@
+mempo-deb (0.1.4) UNRELEASED; urgency=low
+
+  * Debian formated changelog
+
+ -- mempo <mempo@mempo.org>  Wed, 18 Dec 2013 13:00:00 +0200
 
 mempo-deb (0.1.3) UNRELEASED; urgency=low
 
   * Change max key size in gpg-keygen
-	* Fixed libpoco
+  * Fixed libpoco
 
  -- mempo <mempo@mempo.org>  Fri, 13 Dec 2013 13:00:00 +0200
 
